@@ -1,4 +1,5 @@
 # Teading-Bot
+<img src = "Trading Bot.png" width ="1000" /> 
 
 INTRODUCTION
 
@@ -18,3 +19,9 @@ TECNICALITIES/TOOLS USED
 SYSTEM SCREENSHOTS
 
 <img src = "01.png" width ="1000" /> 
+<img src = "02.png" width ="1000" /> 
+<img src = "03.png" width ="1000" /> 
+
+SYSTEM RECORDED VIDEO
+
+LINK: https://youtube.com/watch?v=ctIxAX3lJD8
